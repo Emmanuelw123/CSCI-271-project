@@ -4,7 +4,7 @@
 
 ## Team Members
 
-* Name 1 (EMPLID: XXXXXX) — GitHub: @username
+* Emmanue1 White (EMPLID: 24491798) — GitHub: @EmmanuelW123
 * Alassane Camara (EMPLID: 23957039) — GitHub: @Alassane427
 * Name 3 (EMPLID: XXXXXX) — GitHub: @username
 
@@ -71,5 +71,5 @@ The game continuously updates player positions after each turn so users can trac
 | Team Member | Responsible for                                                                                                              |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Alassane    | Game setup (handling number of players, input validation, initializing variables like positions and finish line)             |
-| Name 2      | Dice rolling and turn system (creating the game loop, generating random dice values, and updating player movement each turn) |
+| Emmanuel White| Dice rolling and turn system (creating the game loop, generating random dice values, and updating player movement each turn) |
 | Name 3      | Output display and winner tracking (printing messages, tracking finished players, assigning rankings, and ending the game)   |
