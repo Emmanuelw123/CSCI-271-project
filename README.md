@@ -1,6 +1,6 @@
 # CSCI-271-project
 
-# Dice Race Game
+# Dice Dash
 
 ## Team Members
 
@@ -12,7 +12,7 @@
 
 ## Game Description
 
-Dice Race Game is a multiplayer game played in the console where up to four players compete to reach the finish line. Each player is assigned a character and starts at the same starting position on a linear track. The objective of the game is to move across the board by rolling a dice and advancing based on the number rolled.
+Dice Dash is a multiplayer game played in the console where up to four players compete to reach the finish line. Each player is assigned a character and starts at the same starting position on a linear track. The objective of the game is to move across the board by rolling a dice and advancing based on the number rolled.
 
 The track has a fixed length (for example, 50 spaces), and players must reach or pass this distance to finish. On each turn, a player rolls a virtual dice (generating a number between 1 and 6), and their character moves forward that number of spaces. The game continues in turns for each player until the required number of winners is reached, depending on the number of players in the game. The program displays messages showing each player’s roll, position, and progress throughout the game.
 
