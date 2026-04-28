@@ -6,7 +6,7 @@
 
 * Emmanue1 White (EMPLID: 24491798) — GitHub: @EmmanuelW123
 * Alassane Camara (EMPLID: 23957039) — GitHub: @Alassane427
-* Name 3 (EMPLID: XXXXXX) — GitHub: @username
+* Lemar Alexander (EMPLID: 24695682) — GitHub: @luhyn
 
 ---
 
@@ -72,4 +72,4 @@ The game continuously updates player positions after each turn so users can trac
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Alassane    | Game setup (handling number of players, input validation, initializing variables like positions and finish line)             |
 | Emmanuel White| Dice rolling and turn system (creating the game loop, generating random dice values, and updating player movement each turn) |
-| Name 3      | Output display and winner tracking (printing messages, tracking finished players, assigning rankings, and ending the game)   |
+| Lemar Alexander      | Output display and winner tracking (printing messages, tracking finished players, assigning rankings, and ending the game)   |
