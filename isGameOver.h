@@ -1,0 +1,1 @@
+bool isGameOver(int place, int maxFinishers);
